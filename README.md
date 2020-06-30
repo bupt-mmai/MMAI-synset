@@ -20,6 +20,12 @@ No.| Characteristics |Quantity
 6 | # Synonyms for Testing |209
 
 
+## 示例
+- helianthusannuus
+![](./src/helianthusannuus.jpg)
+
+- sunflowers
+![](./src/sunflowers.jpg)
 
 ## 下载
 我们将会尽快发布整个数据集。
