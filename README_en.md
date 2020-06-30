@@ -20,10 +20,10 @@ No.| Characteristics |Quantity
 
 ## Demo
 - helianthusannuus
-![](./src/helianthusannuus.jpg)
+![helianthusannuus](./src/helianthusannuus.jpg)
 
 - sunflowers
-![](./src/sunflowers.jpg)
+![sunflowers](./src/sunflowers.jpg)
 
 ## Download
 We will release the entire data set as soon as possible.
