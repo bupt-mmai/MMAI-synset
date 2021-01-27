@@ -28,9 +28,12 @@ No.| Characteristics |Quantity
 ![sunflowers](./src/sunflowers.jpg)
 
 ## 下载
-我们将会尽快发布整个数据集。
+我们本文使用到的文本同义词集数据集,`text_synset`，对应图像数据`visual_synset`请按照以下步骤进行下载：
 
-我们先发布了本文使用到的文本同义词集数据集,`text_synset`。
+
+1. 目前我们已经将数据集发布至互联网，需要使用的研究人员请发送姓名、单位和用途等信息至`peter_chen_jaon@foxmail.com, 我们将会返回数据集的下载地址。
+
+2. 下载完毕后，执行如下命令 `cat mmai-synset/* | tar -zxvf`进行解压
 
 ## 其他
 如果你有什么需要帮助，请在发送邮件至`peter_chen_jaon@foxmail.com`

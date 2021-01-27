@@ -26,9 +26,12 @@ No.| Characteristics |Quantity
 ![sunflowers](./src/sunflowers.jpg)
 
 ## Download
-We will release the entire data set as soon as possible.
+The text synset dataset used in this article, `text_synset`, corresponds to the image data `visual_synset`, please follow the steps below to download:
 
-We first release the text synset dataset used in this article, `text_synset`.
+
+1. At present, we have released the data set to the Internet. For researchers who need to use it, please send the name, unit and purpose information to `peter_chen_jaon@foxmail.com, and we will return the download address of the data set.
+
+2. After downloading, execute the following command `cat mmai-synset/* | tar -zxvf` to decompress
 
 ## Others
 If you need help, please send an email to `peter_chen_jaon@foxmail.com`
