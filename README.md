@@ -42,3 +42,7 @@ No.| Characteristics |Quantity
 1. Shen J, Lyu R, Ren X, et al. Mining Entity Synonyms with Efficient Neural Set Generation[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 249-256.
 2. https://github.com/mickeystroller/SynSetMine-pytorch
 
+
+# TrimSyn
+
+我们发布了构建于MMAI-Synset的多模态同义标签集推断方法代码库TrimSyn Repo
