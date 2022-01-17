@@ -40,4 +40,6 @@ If you need help, please send an email to `peter_chen_jaon@foxmail.com`
 1. Shen J, Lyu R, Ren X, et al. Mining Entity Synonyms with Efficient Neural Set Generation[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 249-256.
 2. https://github.com/mickeystroller/SynSetMine-pytorch
 
+# TrimSyn
 
+We release the TrimSyn repo which levarage the multimodal information to induce synsets.
