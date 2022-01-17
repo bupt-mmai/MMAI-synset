@@ -1,0 +1,3 @@
+[submodule "TrimSyn"]
+	path = TrimSyn
+	url = https://github.com/cgpeter96/TrimSyn.git
