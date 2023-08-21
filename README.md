@@ -43,6 +43,6 @@ No.| Characteristics |Quantity
 2. https://github.com/mickeystroller/SynSetMine-pytorch
 
 
-# TrimSyn
+# VENUCE
 
-我们发布了构建于MMAI-Synset的多模态同义标签集推断方法代码库TrimSyn Repo
+我们发布了构建于MMAI-Synset的多模态同义标签集推断方法代码库[Repo](https://github.com/cgpeter96/VENUE)
