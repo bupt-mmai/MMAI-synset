@@ -1,3 +1,6 @@
 [submodule "TrimSyn"]
 	path = TrimSyn
 	url = https://github.com/cgpeter96/TrimSyn.git
+[submodule "VENUE"]
+	path = VENUE
+	url = https://github.com/cgpeter96/VENUE.git
